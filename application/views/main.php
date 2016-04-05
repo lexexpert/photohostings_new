@@ -135,7 +135,7 @@
 
 		<div class="well">
 			<label class="fp">5 Прямая ссылка на картинку<br><input type="text" value="<? if(isset ($direct_link)){echo $direct_link;}?>" size="100" class="code_fields"></label>
-			<label class="fp">BB-код картинки<br><input type="text" value="<? if(isset ($bb_link)){echo $bb_link;}?>" size="100" class="code_fields"></label>
+			<label class="fp">6 BB-код картинки<br><input type="text" value="<? if(isset ($bb_link)){echo $bb_link;}?>" size="100" class="code_fields"></label>
 			<label class="fp">HTML-код картинки<br><input type="text" value="<? if(isset ($img_link)){echo $img_link;}?>" size="100" class="code_fields"></label>
 			<br>
 		</div>
